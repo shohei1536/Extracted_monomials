@@ -3,11 +3,11 @@ _Appendix for the paper "Linearizing Robotic Manipulator's Dynamics Using Koopma
 
 These are the monomials that appear in the expansion of the dynamics equation for the robot arm, and which were used to linearize using the Koopman operator.
 
-##Contents of the files
+**Contents of the files**
 
 The top row of the Excel file is the simplest base monomials that makes up the monomials that are important for describing robot dynamics. Each subsequent row represents the desired monomials, expressed as a multiplication of the base monomials. The number in each row represents the order of power of the base monomial.
 
-#Exsample#
+**Exsample**
 
 If robot's dynamics is described using Koopman operator matrix (K) and observables vector (x) as follow:
 
