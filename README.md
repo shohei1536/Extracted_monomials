@@ -1,5 +1,5 @@
 # Extracted_monomials
-_Appendix for the paper "Linearizing Robotic Manipulator's Dynamics Using Koopman Operator and Applying Generalized Predictive Control"_
+_Appendix for the SII 2023 confarence paper "Linearizing Robotic Manipulator's Dynamics Using Koopman Operator and Applying Generalized Predictive Control"_
 
 These are the monomials that appear in the expansion of the dynamics equation for the robot arm, and which were used to linearize using the Koopman operator.
 
